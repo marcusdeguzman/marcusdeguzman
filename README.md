@@ -153,16 +153,4 @@ Arduino-based embedded system capable of detecting fire and automatically direct
 
 ---
 
-# 🌐 Connect
 
-**Portfolio**
-
-https://marcusdeguzman.com
-
-**LinkedIn**
-
-https://linkedin.com/in/marcusdeguzman
-
-**Email**
-
-marcusdeguzman.work@gmail.com
