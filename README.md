@@ -24,7 +24,7 @@ Building software, embedded systems, and intelligent applications that solve rea
 <img src="https://skillicons.dev/icons?i=python,cpp,java,ts,js,html,css" />
 </p>
 
-**Also experienced with:** SQL
+- SQL
 
 ---
 
