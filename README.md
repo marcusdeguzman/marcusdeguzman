@@ -89,6 +89,3 @@ water suppression, and 3D printed prototype housing.
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-
-## 📧 Contact
-marcusdeguzman.work@gmail.com
