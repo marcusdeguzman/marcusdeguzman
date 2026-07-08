@@ -76,8 +76,6 @@ Designed and developed an Arduino-based embedded system capable of detecting fir
 <img src="https://skillicons.dev/icons?i=python,cpp,java,ts,js,html,css" />
 </p>
 
-**Also Experienced With**
-
 - SQL
 
 ---
