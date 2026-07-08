@@ -2,17 +2,69 @@
 
 ### Computer Engineering Student @ FEU Institute of Technology
 
-Building software, embedded systems, and AI-powered applications that solve real-world engineering problems.
+Building software, embedded systems, and AI-powered solutions that solve real-world engineering problems.
 
 ---
 
-# 🚀 Interests
+# 🚀 About Me
 
-- Software Engineering
-- Embedded Systems
-- Artificial Intelligence
-- Internet of Things (IoT)
-- Autonomous Systems
+- 💻 Interested in Software Engineering
+- 🤖 Exploring Artificial Intelligence
+- ⚡ Passionate about Embedded Systems
+- 📡 Interested in IoT & Autonomous Systems
+- 🎯 Currently seeking Software Engineering, Embedded Systems, and AI internship opportunities
+
+---
+
+# 🌟 Featured Projects
+
+## 🏫 ReserveIt
+
+### School Facility & Venue Reservation Management System
+
+A production-ready full-stack web application that modernizes university facility reservations through secure authentication, role-based access control, interactive scheduling, dashboard analytics, and responsive user experience.
+
+**Highlights**
+
+- Secure role-based authentication
+- Reservation approval workflow
+- Interactive scheduling calendar
+- Dashboard analytics
+- Responsive Light & Dark UI
+
+🌐 **Live Demo**
+
+https://reserveit-fit.bolt.host/
+
+---
+
+## 🚁 Autonomous UAS
+
+### Manual FPV & GPS-Guided Flight Control Architecture
+
+Designed and developed a custom unmanned aerial system integrating GPS navigation, telemetry communication, embedded flight control systems, and autonomous mission planning.
+
+**Highlights**
+
+- GPS Navigation
+- RF Telemetry
+- Flight Controller Configuration
+- Autonomous Mission Planning
+
+---
+
+## 🔥 SAFET
+
+### Smart Automated Fire Detection & Water Suppression System
+
+Designed and developed an Arduino-based embedded system capable of detecting fire and automatically directing a servo-controlled water suppression turret toward the detected source.
+
+**Highlights**
+
+- Arduino Programming
+- Flame Detection
+- Servo Motor Control
+- 3D Printed Prototype
 
 ---
 
@@ -24,9 +76,9 @@ Building software, embedded systems, and AI-powered applications that solve real
 <img src="https://skillicons.dev/icons?i=python,cpp,java,ts,js,html,css" />
 </p>
 
-**Also experienced with**
+**Also Experienced With**
 
-SQL
+- SQL
 
 ---
 
@@ -104,105 +156,67 @@ SQL
 
 ---
 
-# 🌟 Featured Projects
-
-## 🏫 ReserveIt
-
-### School Facility & Venue Reservation Management System
-
-A production-ready full-stack web application that modernizes university facility reservations through secure authentication, role-based access control, interactive scheduling, dashboard analytics, and responsive user experience.
-
-**Live Demo**
-
-🌐 https://reserveit-fit.bolt.host/
-
----
-
-## 🚁 Autonomous UAS
-
-### Manual FPV & GPS-Guided Flight Control Architecture
-
-Designed and developed a custom unmanned aerial system integrating GPS navigation, telemetry communication, embedded flight control systems, and autonomous mission planning.
-
----
-
-## 🔥 SAFET
-
-### Smart Automated Fire Detection & Water Suppression System
-
-Designed and developed an Arduino-based embedded system capable of detecting fire and automatically directing a servo-controlled water suppression turret toward the detected source.
-
----
-
 # 📜 Certifications
 
-### Artificial Intelligence
+## 🤖 Artificial Intelligence
 
-🎓 Supervised Machine Learning: Regression and Classification  
-**Stanford University & DeepLearning.AI**
+- **Supervised Machine Learning: Regression and Classification**
+  - Stanford University & DeepLearning.AI
 
-🤖 Introduction to Artificial Intelligence (AI)  
-**IBM**
-
----
-
-### Software Engineering
-
-🗄️ Databases and SQL for Data Science with Python  
-**IBM**
+- **Introduction to Artificial Intelligence (AI)**
+  - IBM
 
 ---
 
-### Cloud
+## 💻 Software Engineering
 
-☁️ AWS Academy Graduate – Cloud Foundations  
-**Amazon Web Services**
-
----
-
-### Networking
-
-🌐 CCNA: Introduction to Networks  
-**Cisco Networking Academy**
-
-🌐 CCNA: Switching, Routing, and Wireless Essentials  
-**Cisco Networking Academy**
+- **Databases and SQL for Data Science with Python**
+  - IBM
 
 ---
 
-# 📚 Currently Learning
+## ☁️ Cloud
+
+- **AWS Academy Graduate – Cloud Foundations**
+  - Amazon Web Services
+
+---
+
+## 🌐 Networking
+
+- **CCNA: Introduction to Networks**
+  - Cisco Networking Academy
+
+- **CCNA: Switching, Routing, and Wireless Essentials**
+  - Cisco Networking Academy
+
+---
+
+# 🚧 Current Focus
 
 <p>
 <img src="https://skillicons.dev/icons?i=linux,docker" />
 </p>
 
-- Linux Foundation LFS101
-- Docker
-- Cloud Computing
-- AI Engineering
+Currently working on:
 
----
-
-# 🎯 2026 Goals
-
-- Build an AI Study Assistant
-- Complete Linux Foundation LFS101
-- Learn Docker
-- Learn Cloud Technologies
-- Land a Software Engineering Internship
+- 🐧 Linux Foundation LFS101
+- 🤖 AI Study Assistant
+- 🐳 Docker
+- ☁️ Cloud Computing
 
 ---
 
 # 🌐 Connect
 
-**Portfolio**
+### Portfolio
 
 https://marcusdeguzman.com
 
-**LinkedIn**
+### LinkedIn
 
 https://linkedin.com/in/marcusdeguzman
 
-**Email**
+### Email
 
 marcusdeguzman.work@gmail.com
