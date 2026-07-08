@@ -1,4 +1,4 @@
-# Marcus De Guzman
+# Hi, I'm Marcus De Guzman 👋
 
 ### Computer Engineering Student @ FEU Institute of Technology
 
@@ -6,52 +6,109 @@ Building software, embedded systems, and intelligent applications that solve rea
 
 ---
 
-## About Me
+## 🚀 Interests
 
-- 💻 Interested in Software Engineering
-- 🤖 Exploring Artificial Intelligence
-- ⚡ Passionate about Embedded Systems
-- 📡 Interested in IoT & Autonomous Systems
+- Software Engineering
+- Embedded Systems
+- Artificial Intelligence
+- Internet of Things (IoT)
+- Autonomous Systems
 
 ---
 
-## Tech Stack
+# 💻 Tech Stack
 
-### Languages
+## Programming Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,cpp,java,ts,js,html,css" />
 </p>
 
-### Frameworks & Tools
+**Also experienced with:** SQL
+
+---
+
+## Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,postgres,supabase,git,github,vscode,vercel" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vscode" />
 </p>
 
-### Currently Learning
+- shadcn/ui
+- Responsive Web Design
+
+---
+
+## Backend & Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=linux,docker" />
+<img src="https://skillicons.dev/icons?i=postgres,supabase,prisma" />
+</p>
+
+- Auth.js (NextAuth)
+- REST APIs
+- Role-Based Access Control (RBAC)
+
+---
+
+## Embedded Systems
+
+<p>
+<img src="https://skillicons.dev/icons?i=arduino" />
+</p>
+
+- Firmware Development
+- Sensor Integration
+- Motor Control
+- Telemetry Systems
+- GPS Navigation
+- Autonomous Systems
+
+---
+
+## Artificial Intelligence
+
+- Artificial Intelligence
+- Machine Learning
+- Prompt Engineering
+
+---
+
+## Networking
+
+- Cisco Networking
+- TCP/IP
+- Routing & Switching
+- Network Fundamentals
+
+---
+
+## Cloud & Deployment
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vercel" />
 </p>
 
 ---
 
-# Featured Projects
+## Engineering & Design
+
+- AutoCAD
+- 3D Printing
+- Technical Documentation
+- Electronic Troubleshooting
+
+---
+
+# 🌟 Featured Projects
 
 ## 🏫 ReserveIt
 
-School Facility & Venue Reservation Management System
+**School Facility & Venue Reservation Management System**
 
-Production-ready full-stack web application for managing university facility reservations.
+A production-ready full-stack web application that modernizes university facility reservations through secure authentication, role-based access control, interactive scheduling, and dashboard analytics.
 
-**Highlights**
-
-- Role-based authentication
-- Reservation workflow
-- Interactive scheduling
-- Dashboard analytics
-- Responsive UI
+**Live Demo**
 
 🌐 https://reserveit-fit.bolt.host/
 
@@ -59,21 +116,25 @@ Production-ready full-stack web application for managing university facility res
 
 ## 🚁 Autonomous UAS
 
-Manual FPV & GPS-Guided Flight Control Architecture
+**Manual FPV & GPS-Guided Flight Control Architecture**
 
-Embedded autonomous drone integrating GPS navigation, telemetry systems, and autonomous mission planning.
+Designed and developed a custom unmanned aerial system integrating GPS navigation, telemetry communication, embedded flight control, and autonomous mission planning.
 
 ---
 
 ## 🔥 SAFET
 
-Smart Automated Fire Detection & Water Suppression System
+**Smart Automated Fire Detection & Water Suppression System**
 
-Arduino-based embedded system featuring automatic flame detection and servo-controlled suppression.
+Arduino-based embedded system capable of detecting fire and automatically directing a servo-controlled water suppression turret toward the detected source.
 
 ---
 
-# Currently Learning
+# 📚 Currently Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,docker" />
+</p>
 
 - Linux Foundation LFS101
 - Docker
@@ -82,23 +143,26 @@ Arduino-based embedded system featuring automatic flame detection and servo-cont
 
 ---
 
-# 2026 Goals
+# 🎯 2026 Goals
 
-- Build AI Study Assistant
-- Complete Linux Foundation LFS101
-- Learn Docker
-- Learn Cloud Technologies
-- Land a Software Engineering Internship
+- 🤖 Build an AI Study Assistant
+- 🐧 Complete Linux Foundation LFS101
+- 🐳 Learn Docker
+- ☁️ Learn Cloud Technologies
+- 💼 Land a Software Engineering Internship
 
 ---
 
-## Connect With Me
+# 🌐 Connect
 
-🌐 Portfolio  
+**Portfolio**
+
 https://marcusdeguzman.com
 
-💼 LinkedIn  
+**LinkedIn**
+
 https://linkedin.com/in/marcusdeguzman
 
-📧 Email  
+**Email**
+
 marcusdeguzman.work@gmail.com
