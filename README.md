@@ -2,11 +2,11 @@
 
 ### Computer Engineering Student @ FEU Institute of Technology
 
-Building software, embedded systems, and intelligent applications that solve real-world engineering problems.
+Building software, embedded systems, and AI-powered applications that solve real-world engineering problems.
 
 ---
 
-## 🚀 Interests
+# 🚀 Interests
 
 - Software Engineering
 - Embedded Systems
@@ -24,7 +24,9 @@ Building software, embedded systems, and intelligent applications that solve rea
 <img src="https://skillicons.dev/icons?i=python,cpp,java,ts,js,html,css" />
 </p>
 
-- SQL
+**Also experienced with**
+
+SQL
 
 ---
 
@@ -68,8 +70,8 @@ Building software, embedded systems, and intelligent applications that solve rea
 
 ## Artificial Intelligence
 
-- Artificial Intelligence
 - Machine Learning
+- Artificial Intelligence
 - Prompt Engineering
 
 ---
@@ -89,6 +91,8 @@ Building software, embedded systems, and intelligent applications that solve rea
 <img src="https://skillicons.dev/icons?i=git,github,vercel" />
 </p>
 
+- AWS Cloud Foundations
+
 ---
 
 ## Engineering & Design
@@ -104,9 +108,9 @@ Building software, embedded systems, and intelligent applications that solve rea
 
 ## 🏫 ReserveIt
 
-**School Facility & Venue Reservation Management System**
+### School Facility & Venue Reservation Management System
 
-A production-ready full-stack web application that modernizes university facility reservations through secure authentication, role-based access control, interactive scheduling, and dashboard analytics.
+A production-ready full-stack web application that modernizes university facility reservations through secure authentication, role-based access control, interactive scheduling, dashboard analytics, and responsive user experience.
 
 **Live Demo**
 
@@ -116,17 +120,53 @@ A production-ready full-stack web application that modernizes university facilit
 
 ## 🚁 Autonomous UAS
 
-**Manual FPV & GPS-Guided Flight Control Architecture**
+### Manual FPV & GPS-Guided Flight Control Architecture
 
-Designed and developed a custom unmanned aerial system integrating GPS navigation, telemetry communication, embedded flight control, and autonomous mission planning.
+Designed and developed a custom unmanned aerial system integrating GPS navigation, telemetry communication, embedded flight control systems, and autonomous mission planning.
 
 ---
 
 ## 🔥 SAFET
 
-**Smart Automated Fire Detection & Water Suppression System**
+### Smart Automated Fire Detection & Water Suppression System
 
-Arduino-based embedded system capable of detecting fire and automatically directing a servo-controlled water suppression turret toward the detected source.
+Designed and developed an Arduino-based embedded system capable of detecting fire and automatically directing a servo-controlled water suppression turret toward the detected source.
+
+---
+
+# 📜 Certifications
+
+### Artificial Intelligence
+
+🎓 Supervised Machine Learning: Regression and Classification  
+**Stanford University & DeepLearning.AI**
+
+🤖 Introduction to Artificial Intelligence (AI)  
+**IBM**
+
+---
+
+### Software Engineering
+
+🗄️ Databases and SQL for Data Science with Python  
+**IBM**
+
+---
+
+### Cloud
+
+☁️ AWS Academy Graduate – Cloud Foundations  
+**Amazon Web Services**
+
+---
+
+### Networking
+
+🌐 CCNA: Introduction to Networks  
+**Cisco Networking Academy**
+
+🌐 CCNA: Switching, Routing, and Wireless Essentials  
+**Cisco Networking Academy**
 
 ---
 
@@ -145,12 +185,24 @@ Arduino-based embedded system capable of detecting fire and automatically direct
 
 # 🎯 2026 Goals
 
-- 🤖 Build an AI Study Assistant
-- 🐧 Complete Linux Foundation LFS101
-- 🐳 Learn Docker
-- ☁️ Learn Cloud Technologies
-- 💼 Land a Software Engineering Internship
+- Build an AI Study Assistant
+- Complete Linux Foundation LFS101
+- Learn Docker
+- Learn Cloud Technologies
+- Land a Software Engineering Internship
 
 ---
 
+# 🌐 Connect
 
+**Portfolio**
+
+https://marcusdeguzman.com
+
+**LinkedIn**
+
+https://linkedin.com/in/marcusdeguzman
+
+**Email**
+
+marcusdeguzman.work@gmail.com
