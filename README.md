@@ -138,7 +138,7 @@ Designed and developed an Arduino-based embedded system capable of detecting fir
 ## Cloud & Deployment
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vercel" />
+<img src="https://skillicons.dev/icons?i=git,github,vercel,linux" />
 </p>
 
 - AWS Cloud Foundations
@@ -155,6 +155,13 @@ Designed and developed an Arduino-based embedded system capable of detecting fir
 ---
 
 # 📜 Certifications
+
+## 🐧 Linux
+
+- **Introduction to Linux (LFS101)**
+  - The Linux Foundation
+
+---
 
 ## 🤖 Artificial Intelligence
 
@@ -193,15 +200,15 @@ Designed and developed an Arduino-based embedded system capable of detecting fir
 # 🚧 Current Focus
 
 <p>
-<img src="https://skillicons.dev/icons?i=linux,docker" />
+<img src="https://skillicons.dev/icons?i=docker" />
 </p>
 
 Currently working on:
 
-- 🐧 Linux Foundation LFS101
 - 🤖 AI Study Assistant
 - 🐳 Docker
 - ☁️ Cloud Computing
+- 🐧 Preparing for Linux Foundation Certified IT Associate (LFCA)
 
 ---
 
